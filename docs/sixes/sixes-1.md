@@ -8,22 +8,6 @@ sidebar_position: 1
 
 The following supplements the [General Ruleset](/docs/general/general-1). In the event of a conflict, these format-specific rules take precedence.
 
-## Team Composition
-
-6 players per team.
-
-**Standard class limits (whitelist applies):**
-
-| Class | Limit |
-|-------|-------|
-| Scout | 2 |
-| Soldier | 2 |
-| Demoman | 1 |
-| Medic | 1 |
-
-## Ringers
-
-A maximum of **1 ringer per map** is permitted in 6v6. Ringers must comply with all eligibility requirements outlined in the General Ruleset (Section 8).
 
 ## Map Format
 
@@ -31,5 +15,5 @@ Typically 5CP maps and KOTH maps will be employed in each season map pool.
 
 **Round win conditions:**
 
-- **5CP:** First team to capture all 5 control points wins the round. First to 5 round wins wins the map.
-- **KOTH:** First team to hold the point for a total of 3 minutes wins the round. First to 3 rounds wins the map.
+- **5CP:** First team to capture all 5 control points wins the round. 
+- **KOTH:** First team to hold the point for a total of 3 minutes wins the round. 
