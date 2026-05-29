@@ -16,12 +16,7 @@ We encourage all players to be punctual, fair, and to compete with integrity. Pl
 
 ### 2.1 Sportsmanship
 
-All players are expected to uphold the competitive integrity of the league. Excessive toxicity, offensive behaviour, or harmful messaging directed at opponents, teammates, league staff, or sponsors (whether in match comms, in-game chat, or public platforms) will not be tolerated.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
+All players are expected to uphold the competitive integrity of the league. Excessive toxicity, offensive behaviour, or harmful messaging directed at opponents, teammates, league staff, or sponsors (whether in match comms, in-game chat, or public platforms) will not be tolerated and may result in penalties or bans.
 
 See the [Punishments](/docs/others/punishments) page for the full penalty reference.
 
@@ -50,8 +45,8 @@ Trash talk in good spirits (e.g. friendly banter) is not considered harassment. 
 The use of slurs, discriminatory dog whistles, hate symbols, or hate group imagery (whether directed or undirected) is strictly prohibited in all league contexts including matches and league PUGs.
 
 **Penalties:**
-- 1st offence:
-- Further offences:
+- 1st offence: 2-week ban minimum (3 weeks for top division players)
+- Further offences: Escalating ban lengths
 
 ### 2.4 Content Involving Minors
 
@@ -59,30 +54,16 @@ The sexualisation of minors in any form (including text, images, videos, links, 
 
 ### 2.5 Higher Standards for Top Division Players
 
-Players competing at the highest division level are held to a stricter standard of conduct, as they serve as representatives and role models for the broader community.
+Players competing at the highest division level can and will be held to a stricter standard of conduct, as they serve as representatives and role models for the broader community.
 
 ### 2.6 Witch Hunting
 
-Publicly accusing a player of wrongdoing without sufficient evidence, especially with the intent to incite harassment, constitutes witch hunting and is not permitted. If you have suspicions of player misconduct, please direct them to the admins via the official league channels.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
+Publicly accusing a player of wrongdoing without sufficient evidence, especially with the intent to incite harassment, constitutes witch hunting and is not permitted. Violations may result in a warning or suspension. If you have suspicions of player misconduct, please direct them to the admins via the official league channels.
 
 ### 2.7 Withholding Information
 
-Players and teams are expected to report misconduct or match issues within 24 hours of the incident. Deliberately withholding information to time a report for maximum competitive damage will result in penalties for the reporting party.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
+Players and teams are expected to report misconduct or match issues within 24 hours of the incident. Deliberately withholding information to time a report for maximum competitive damage may result in severe penalties for the reporting party.
 
 ### 2.8 Report Abuse
 
-Abusing the report system to harass or waste admin resources will result in penalties. Reports should be submitted in good faith.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
+Abusing the report system to harass or waste admin resources may result in restricted access to player support or further penalties. Reports should be submitted in good faith.

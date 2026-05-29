@@ -22,6 +22,23 @@ Rescheduling a confirmed match requires written agreement from both teams and mu
 
 Failure to show up to a scheduled match without prior communication will result in a forfeit loss. Repeated no-shows may result in the team being removed from the season.
 
+**Maximum Late Window**
+
+Teams have a 15-minute grace period from the scheduled match time. If a team cannot field the minimum required players within 15 minutes, the opposing team may claim a forfeit win. The clock starts from the agreed-upon match time, not from when players begin connecting. Both teams must be on the server and ready to start within this window.
+
+**Emergency Rescheduling**
+
+Emergency rescheduling requests (submitted less than 24 hours before match time) may be granted at admin discretion for legitimate reasons (e.g. medical emergencies, natural disasters, widespread internet outages). Teams requesting an emergency reschedule must provide reasonable evidence if asked. The rescheduled match must be played within 48 hours of the original match time. Short-notice mercenaries (ringers) may be permitted in emergency situations at admin discretion, provided the ringer meets all eligibility requirements and is approved by the opposing team. Standard ringer declaration rules still apply.
+
+**Scheduling Mediation**
+
+If two teams cannot agree on a match time after good-faith negotiation, either team may request admin mediation. The following process applies:
+
+- Both teams must provide their full availability for the match week, not just a single preferred time.
+- If there is any overlapping availability, the admin will select a time from that overlap.
+- If there is genuinely zero overlap, the match will be played on the default match day (refer to league ruleset). Teams who cannot make the default time bear the burden of flexibility.
+- A team that refuses to provide availability or negotiates in bad faith may be issued a forfeit loss at admin discretion.
+
 ### 8.2 Server Requirements
 
 Matches must be played on servers running the official league config for the relevant format and map.
@@ -60,7 +77,7 @@ Pauses are permitted for technical issues (maximum 10 minutes) and a maximum of 
 
 ### 8.5 Forfeits
 
-A team that cannot field the minimum number of players for their format will forfeit the match. Repeated forfeits will result in the team being removed from the season.
+A team that cannot field the minimum number of players for their format will forfeit the match. 2 forfeits in the regular season will result in the team being removed from the season.
 
 ### 8.6 Disputes and Complaints
 
@@ -72,11 +89,11 @@ Match disputes must be submitted to an admin as soon as possible after the match
 - Ringers may not be used in playoff matches unless explicitly permitted by the format ruleset.
 - Ringers must meet all eligibility requirements (no active bans, appropriate division standing, etc.).
 - Ringers must be approved by the opposing team. At least 3 appropriate ringers must be denied before admin mediation will begin.
-- Teams must declare ringers in match comms before the match begins. Failure to declare a ringer will result in penalties (1st offence: , 2nd offence: , 3rd offence: ).
+- Teams must declare ringers in match comms before the match begins. Failure to declare a ringer will result in a match overturn.
 
 ## Section 10: Match Casts and Spectators
 
-- Teams may be required to allow official league casters access to STV (SourceTV) for high-profile matches.
+- Teams will be required to allow official league casters access to STV (SourceTV) for matches.
 - Unauthorized spectators in an active match are not permitted.
 - Casters and observers must not relay live match information to players (see ghosting rules).
 

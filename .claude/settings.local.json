@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:etf2l.org)",
-      "WebFetch(domain:rules.etf2l.org)"
-    ]
-  }
-}

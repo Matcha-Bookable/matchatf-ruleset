@@ -13,8 +13,8 @@ sidebar_position: 2
 Cheating in any form is strictly prohibited, including in official matches, scrimmages, PUGs, and public servers. Evidence from demos, server logs, or anti-cheat software will be investigated.
 
 **Penalties:**
-- Aimbot / ESP:
-- VAC / Game ban in TF2:
+- Cheating / Hacking (Aimbot, ESP, etc.): 3-year ban (1st offence), permanent ban (2nd offence)
+- VAC / Game ban in TF2: 3-year ban (unless confirmed non-TF2 or removed by Valve)
 
 All matches a banned player participated in during the season will be overturned. Teams with a cheater in playoffs will be disqualified.
 
@@ -54,7 +54,6 @@ Scripts that allow players to perform actions they could not otherwise perform, 
 - Viewmodel toggle scripts
 - Zoom scripts
 - Crosshair changing scripts
-- Medic radar scripts
 - No explosions / particles scripts
 - Speedometer scripts
 
@@ -102,7 +101,7 @@ Abusing unintended game mechanics to gain an unfair advantage is prohibited. Exp
 - Oversized particle effects
 - Transparent enemy pyro flames
 - External executables modifying textures, models, or particles
-- Developer textures
+- No shadow modification
 - Malicious weapon sound replacements that provide a detection advantage
 
 **Allowed bugs:**
@@ -157,7 +156,7 @@ Recommended practice: delay the stream by 90+ seconds, mute audio or use an over
 
 ### 3.9 Live Coaching
 
-Coaching during an active match is permitted.
+Coaching during an active match is not permitted.
 
 ### 3.10 Account Sharing and Alternate Accounts
 

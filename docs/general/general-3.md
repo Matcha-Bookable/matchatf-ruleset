@@ -48,7 +48,7 @@ Player additions and roster changes are subject to the following rules throughou
 
 ### Open Window
 
-At the start of each season, rosters are open. Teams may add and remove players freely until the roster lock comes into effect.
+During the registration period, rosters are open. Teams may add and remove players freely until the roster lock comes into effect.
 
 ### Soft Roster Lock
 
