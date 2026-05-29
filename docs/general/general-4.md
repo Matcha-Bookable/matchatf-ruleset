@@ -55,25 +55,16 @@ Players are strongly advised to keep demos in a clearly labelled folder organise
 
 Admins will conduct random demo checks throughout the season. Selected players will be notified via the official league channels and must submit their demos within **72 hours** of the request (SGT). Demos must be uploaded by the requested player themselves — teammates cannot submit on their behalf.
 
-**Opponent Demo Requests**
-
-The opposing team may request demos from up to **2 players** per match. Requests must be submitted within **48 hours** of the scheduled match start time (SGT). The requested player has **72 hours** from the time of the request to provide their demos for all maps played.
-
 Failure to provide demos when requested is a serious offence.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
 
 ### 8.4 Pauses
 
 Pauses are permitted for technical issues (maximum 10 minutes) and a maximum of 2 tactical pauses (each 1 minute) per team. Abuse of the pause system (including excessive or disruptive pausing) is not allowed.
 
 **Penalties for pause abuse:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
+- 1st offence: Team warning
+- 2nd offence: Possible match overturn at admin discretion
+- 3rd offence: Team disqualified from the season
 
 ### 8.5 Forfeits
 
@@ -95,7 +86,6 @@ Match disputes must be submitted to an admin as soon as possible after the match
 
 - Teams will be required to allow official league casters access to STV (SourceTV) for matches.
 - Unauthorized spectators in an active match are not permitted.
-- Casters and observers must not relay live match information to players (see ghosting rules).
 
 ## Section 11: Miscellaneous
 

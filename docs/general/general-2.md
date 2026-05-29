@@ -29,11 +29,6 @@ All third-party software is assessed on whether it provides an unfair advantage 
 
 If unsure about a specific piece of software, contact an admin before using it in a match.
 
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
-
 ### 3.3 Scripts
 
 Scripts that allow players to perform actions they could not otherwise perform, or that disrupt the player's hitbox, are banned.
@@ -126,11 +121,6 @@ Exploiting map geometry or weapon mechanics to gain an unintended advantage is p
 
 The above list is not exhaustive. Contact an admin if you are unsure about a specific interaction.
 
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
-
 ### 3.6 Match Fixing
 
 Deliberately affecting the outcome of a match for personal gain is prohibited.
@@ -141,12 +131,7 @@ Deliberately affecting the outcome of a match for personal gain is prohibited.
 
 ### 3.7 Ghosting
 
-Sending or receiving real-time match information to or from someone outside the match (including via spectator mode) constitutes ghosting.
-
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
+Sending or receiving real-time match information to or from someone outside the match (including via spectator mode) constitutes ghosting and will result in suspension for all involved.
 
 ### 3.8 Streaming Conduct
 
@@ -164,15 +149,10 @@ Each player may have one league account. Multiple accounts or shared accounts ar
 
 Siblings or housemates sharing an IP must notify an admin in advance and use separate Steam and league accounts.
 
-**Penalties:**
-- 1st offence:
-- Repeat offences:
-- Playing on a permanently banned player's account:
+Penalties: match overturns, major penalties, or league bans depending on severity.
+Playing on an account belonging to a permanently banned player: Permanent ban.
 
 ### 3.11 Improper Server Administration
 
 Using server operator privileges (such as host or admin) to influence the outcome of an official match is prohibited.
 
-**Penalties:**
-- 1st offence:
-- 2nd offence:
