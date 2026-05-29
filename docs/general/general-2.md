@@ -54,19 +54,9 @@ Scripts that allow players to perform actions they could not otherwise perform, 
 
 Contact an admin if you are unsure about a specific script.
 
-**Penalties for using banned scripts:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
-
 ### 3.4 Game Exploits
 
 Abusing unintended game mechanics to gain an unfair advantage is prohibited. Exploits marked as "cheating ban" below are treated as cheating (see Section 3.1 penalties).
-
-**Penalties for other game exploits:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
 
 **Prohibited:**
 - Bypassing class limits imposed by server config
