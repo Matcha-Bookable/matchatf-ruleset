@@ -35,11 +35,6 @@ Harassment includes but is not limited to:
 
 Trash talk in good spirits (e.g. friendly banter) is not considered harassment. Blocking someone in a private context is the recommended first step for minor disputes.
 
-**Penalties:**
-- 1st offence:
-- 2nd offence:
-- 3rd offence:
-
 ### 2.3 Discriminatory Language and Symbols
 
 The use of slurs, discriminatory dog whistles, hate symbols, or hate group imagery (whether directed or undirected) is strictly prohibited in all league contexts including matches and league PUGs.
