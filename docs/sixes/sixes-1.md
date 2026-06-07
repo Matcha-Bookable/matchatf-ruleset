@@ -10,13 +10,13 @@ The following supplements the [General Ruleset](/docs/general/general-1). In the
 
 ## Team Composition
 
-6 players per team.
+9 players per team.
 
 **Standard class limits (whitelist applies):**
 
 ## Ringers
 
-A maximum of **2 ringers per map** is permitted in 6v6. Ringers must comply with all eligibility requirements outlined in the General Ruleset (Section 8).
+A maximum of **1 ringer/merc per map** is permitted in 6v6. Ringers must comply with all eligibility requirements outlined in the General Ruleset (Section 8).
 
 ## Map Format
 

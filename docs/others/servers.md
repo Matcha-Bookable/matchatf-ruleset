@@ -15,4 +15,4 @@ If both teams cannot agree on a server location, the default is the league-provi
 
 min | ABS( Average(Team 1 Ping) - Average(Team 2 Ping) )
 
-Note: Players connecting from outside the Asia-Pacific region (excluding Oceania) will be excluded from the average ping calculation. Server selection is based solely on the ping of in-region players.
+Note: Players connecting from outside the Asia-Pacific region (including Oceania) will be excluded from the average ping calculation. Server selection is based solely on the ping of in-region players.
